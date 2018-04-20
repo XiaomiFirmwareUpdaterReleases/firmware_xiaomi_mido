@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | 309 | HMNote4XGlobal | Xiaomi Redmi Note 4 Global | mido |
 
-### XDA Support Thread For sagit:
+### XDA Support Thread For mido:
 [Go here](https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/firmware-xiaomi-redmi-note-4-t3760917)
 
 ### XDA Main Thread:
